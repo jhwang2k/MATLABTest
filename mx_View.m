@@ -1,4 +1,5 @@
 function out = mx_View(strLocData), out = [];
+%!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 addpath('FARAD');
 
